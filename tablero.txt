@@ -1,0 +1,78 @@
+printc ln, 0d
+    print line
+    printc ln, 0d
+    printc j, 10d
+    print sep
+    printRow r1tb1
+    printc ln, 0d
+    
+    print line
+    printc ln, 0d
+    printc i, 10d
+    print sep
+    printRow r2tb1
+    printc ln, 0d
+
+    print line
+    printc ln, 0d
+    printc h, 10d
+    print sep
+    printRow r3tb1
+    printc ln, 0d
+
+    print line
+    printc ln, 0d
+    printc h, 10d
+    print sep
+    printRow r4tb1
+    printc ln, 0d
+
+    print line
+    printc ln, 0d
+    printc g, 10d
+    print sep
+    printRow r5tb1
+    printc ln, 0d
+
+    print line
+    printc ln, 0d
+    printc f, 10d
+    print sep
+    printRow r6tb1
+    printc ln, 0d
+
+    print line
+    printc ln, 0d
+    printc e, 10d
+    print sep
+    printRow r7tb1
+    printc ln, 0d
+
+    print line
+    printc ln, 0d
+    printc d, 10d
+    print sep
+    printRow r7tb1
+    printc ln, 0d
+
+    print line
+    printc ln, 0d
+    printc lc, 10d
+    print sep
+    printRow r8tb1
+    printc ln, 0d
+
+    print line
+    printc ln, 0d
+    printc b, 10d
+    print sep
+    printRow r9tb1
+    printc ln, 0d
+
+    print line
+    printc ln, 0d
+    printc a, 10d
+    print sep
+    printRow r10tb1
+    printc ln, 0d
+    print line
